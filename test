@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<htmllang="en">
+    <head>
+        <title>Link</title>
+    </head>
+    <body>
+       <select >
+                <option>murali</option>
+                <option>vijay</option>
+                <option>nithish</option>
+            </select><br>
+    </body>
+</html>
